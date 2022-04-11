@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546392639823",
+    "project_id": "tugasegifdaftarteman",
+    "storage_bucket": "tugasegifdaftarteman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546392639823:android:5bddd803b4893c3628dd3a",
+        "android_client_info": {
+          "package_name": "com.egif.tugasegifdaftarteman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546392639823-4nkvfpccu5kj4ljdbuqc76ukvqapl3de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8u4NMfSMg_bUZ_xinZYBHEdkA_D7Q6bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546392639823-4nkvfpccu5kj4ljdbuqc76ukvqapl3de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
